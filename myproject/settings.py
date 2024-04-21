@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-vmo!szhj=(7zbae34no#vg2jz@2$ivt9^+p@p@y2!86gjjqv92
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'ecogrowersweb.onrender.com']
+
 # '.vercel.app', '.now.sh'
 
 # Application definition
